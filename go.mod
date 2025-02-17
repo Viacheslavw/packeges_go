@@ -1,3 +1,3 @@
-module git.com/Viacheslavw/packeges_go
+module github.com/Viacheslavw/packeges_go
 
 go 1.23.5
