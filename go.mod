@@ -1,3 +1,3 @@
-module github.com/Viacheslavw/packeges_go
+module leson1
 
 go 1.23.5
